@@ -1,0 +1,1250 @@
+fileFormatVersion: 2
+guid: f69fa1a7d660a4e43b190ab2db0b2495
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ElfGreenHeadHappy
+    21300002: ElfGreenHeadAim
+    21300004: ElfGreenHeadAngry
+    21300006: spritesheet_1024x512_Xmas_3
+    21300008: spritesheet_1024x512_Xmas_4
+    21300010: spritesheet_1024x512_Xmas_5
+    21300012: spritesheet_1024x512_Xmas_6
+    21300014: spritesheet_1024x512_Xmas_7
+    21300016: spritesheet_1024x512_Xmas_8
+    21300018: spritesheet_1024x512_Xmas_9
+    21300020: spritesheet_1024x512_Xmas_10
+    21300022: spritesheet_1024x512_Xmas_11
+    21300024: spritesheet_1024x512_Xmas_12
+    21300026: spritesheet_1024x512_Xmas_13
+    21300028: spritesheet_1024x512_Xmas_14
+    21300030: spritesheet_1024x512_Xmas_18
+    21300032: spritesheet_1024x512_Xmas_19
+    21300034: spritesheet_1024x512_Xmas_25
+    21300036: spritesheet_1024x512_Xmas_32
+    21300038: spritesheet_1024x512_Xmas_33
+    21300040: spritesheet_1024x512_Xmas_34
+    21300042: spritesheet_1024x512_Xmas_35
+    21300044: spritesheet_1024x512_Xmas_36
+    21300046: spritesheet_1024x512_Xmas_37
+    21300048: spritesheet_1024x512_Xmas_38
+    21300050: spritesheet_1024x512_Xmas_39
+    21300052: spritesheet_1024x512_Xmas_40
+    21300054: spritesheet_1024x512_Xmas_41
+    21300056: spritesheet_1024x512_Xmas_42
+    21300058: spritesheet_1024x512_Xmas_43
+    21300060: spritesheet_1024x512_Xmas_44
+    21300062: spritesheet_1024x512_Xmas_45
+    21300064: spritesheet_1024x512_Xmas_46
+    21300066: spritesheet_1024x512_Xmas_47
+    21300068: spritesheet_1024x512_Xmas_48
+    21300070: spritesheet_1024x512_Xmas_49
+    21300072: spritesheet_1024x512_Xmas_50
+    21300074: spritesheet_1024x512_Xmas_51
+    21300076: spritesheet_1024x512_Xmas_52
+    21300078: spritesheet_1024x512_Xmas_53
+    21300080: spritesheet_1024x512_Xmas_54
+    21300082: spritesheet_1024x512_Xmas_55
+    21300084: spritesheet_1024x512_Xmas_56
+    21300086: spritesheet_1024x512_Xmas_57
+    21300088: spritesheet_1024x512_Xmas_54
+    21300090: spritesheet_1024x512_Xmas_48
+    21300092: spritesheet_1024x512_Xmas_49
+    21300094: spritesheet_1024x512_Xmas_50
+    21300096: spritesheet_1024x512_Xmas_51
+    21300098: spritesheet_1024x512_Xmas_53
+    21300100: spritesheet_1024x512_Xmas_56
+    21300102: spritesheet_1024x512_Xmas_57
+    21300104: spritesheet_1024x512_Xmas_55
+    21300106: spritesheet_1024x512_Xmas_56
+    21300108: spritesheet_1024x512_Xmas_57
+    21300110: spritesheet_1024x512_Xmas_58
+    21300112: spritesheet_1024x512_Xmas_56
+    21300114: spritesheet_1024x512_Xmas_57
+    21300116: spritesheet_1024x512_Xmas_58
+    21300118: spritesheet_1024x512_Xmas_59
+    21300120: spritesheet_1024x512_Xmas_60
+    21300122: spritesheet_1024x512_Xmas_61
+    21300124: spritesheet_1024x512_Xmas_62
+    21300126: spritesheet_1024x512_Xmas_63
+    21300128: spritesheet_1024x512_Xmas_64
+    21300130: spritesheet_1024x512_Xmas_65
+    21300132: spritesheet_1024x512_Xmas_66
+    21300134: spritesheet_1024x512_Xmas_67
+    21300136: spritesheet_1024x512_Xmas_68
+    21300138: spritesheet_1024x512_Xmas_69
+    21300140: spritesheet_1024x512_Xmas_70
+    21300142: spritesheet_1024x512_Xmas_71
+    21300144: spritesheet_1024x512_Xmas_72
+    21300146: spritesheet_1024x512_Xmas_73
+    21300148: spritesheet_1024x512_Xmas_76
+    21300150: spritesheet_1024x512_Xmas_77
+    21300152: spritesheet_1024x512_Xmas_78
+    21300154: spritesheet_1024x512_Xmas_79
+    21300156: spritesheet_1024x512_Xmas_80
+    21300158: spritesheet_1024x512_Xmas_81
+    21300160: spritesheet_1024x512_Xmas_93
+    21300162: spritesheet_1024x512_Xmas_94
+    21300164: spritesheet_1024x512_Xmas_85
+    21300166: spritesheet_1024x512_Xmas_86
+    21300168: spritesheet_1024x512_Xmas_89
+    21300170: spritesheet_1024x512_Xmas_90
+    21300172: spritesheet_1024x512_Xmas_91
+    21300174: spritesheet_1024x512_Xmas_92
+    21300176: spritesheet_1024x512_Xmas_93
+    21300178: spritesheet_1024x512_Xmas_95
+    21300180: spritesheet_1024x512_Xmas_96
+    21300182: spritesheet_1024x512_Xmas_97
+    21300184: spritesheet_1024x512_Xmas_98
+    21300186: spritesheet_1024x512_Xmas_99
+    21300188: spritesheet_1024x512_Xmas_100
+    21300190: spritesheet_1024x512_Xmas_101
+    21300192: spritesheet_1024x512_Xmas_99
+    21300194: spritesheet_1024x512_Xmas_100
+    21300196: spritesheet_1024x512_Xmas_101
+    21300198: spritesheet_1024x512_Xmas_102
+    21300200: spritesheet_1024x512_Xmas_103
+    21300202: spritesheet_1024x512_Xmas_104
+    21300204: spritesheet_1024x512_Xmas_102
+    21300206: spritesheet_1024x512_Xmas_103
+    21300208: spritesheet_1024x512_Xmas_104
+    21300210: spritesheet_1024x512_Xmas_105
+    21300212: spritesheet_1024x512_Xmas_106
+    21300214: spritesheet_1024x512_Xmas_107
+    21300216: spritesheet_1024x512_Xmas_108
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ElfGreenHeadHappy
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 448
+        width: 62
+        height: 61
+      alignment: 9
+      pivot: {x: .483915687, y: .163230523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElfGreenHeadAim
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 448
+        width: 62
+        height: 61
+      alignment: 9
+      pivot: {x: .500000119, y: .130534694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElfGreenHeadAngry
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 447
+        width: 61
+        height: 62
+      alignment: 9
+      pivot: {x: .503269613, y: .133276656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 481
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 410
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: .936414301, y: .371325105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 418
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: .116012447, y: .604085267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 402
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: .511080623, y: .295439899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 418
+        width: 29
+        height: 23
+      alignment: 9
+      pivot: {x: .733833075, y: .89889127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 418
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: .229783088, y: .872877061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 396
+        width: 51
+        height: 14
+      alignment: 9
+      pivot: {x: .0649628714, y: .517521441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 344
+        width: 52
+        height: 55
+      alignment: 9
+      pivot: {x: .506432593, y: .171590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 357
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 362
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: .506448567, y: .436656594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 260
+        width: 85
+        height: 92
+      alignment: 9
+      pivot: {x: .519675851, y: .110972859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 260
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: .504778385, y: .106747605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 448
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: .478478611, y: .112609364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 448
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: .49139154, y: .116913341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 465
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 446
+        width: 48
+        height: 15
+      alignment: 9
+      pivot: {x: .0691922531, y: .545558691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 418
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_34
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 414
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_35
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 394
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_36
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 417
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: .364739627, y: .480551273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 372
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: .508581877, y: .243185431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 396
+        width: 34
+        height: 18
+      alignment: 9
+      pivot: {x: .182707846, y: .77875942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_39
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 374
+        width: 34
+        height: 18
+      alignment: 9
+      pivot: {x: .188273713, y: .826112509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_40
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 344
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: .723158777, y: .868125558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 344
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: .224333704, y: .842441738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 181
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 182
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 107
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 114
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 102
+        width: 61
+        height: 56
+      alignment: 9
+      pivot: {x: .493526757, y: .126285687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 51
+        height: 40
+      alignment: 9
+      pivot: {x: .141553, y: .857667565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 62
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 75
+        width: 36
+        height: 20
+      alignment: 9
+      pivot: {x: .200589925, y: .795133591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 43
+        height: 35
+      alignment: 9
+      pivot: {x: .500000358, y: .294690609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5
+        width: 33
+        height: 23
+      alignment: 9
+      pivot: {x: .282247365, y: .801270187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_55
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 184
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_56
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 261
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 338
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 465
+        width: 36
+        height: 45
+      alignment: 9
+      pivot: {x: .718437195, y: .438323289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_48
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 96
+        width: 61
+        height: 67
+      alignment: 9
+      pivot: {x: .4949691, y: .197707906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 75
+        width: 37
+        height: 20
+      alignment: 9
+      pivot: {x: .219430536, y: .806873322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_50
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 448
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: .464138329, y: .147359386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_53
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 404
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_56
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 378
+        width: 67
+        height: 31
+      alignment: 9
+      pivot: {x: .980918765, y: .747477889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 372
+        width: 38
+        height: 18
+      alignment: 9
+      pivot: {x: .0881443992, y: .840969503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_55
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 448
+        width: 61
+        height: 62
+      alignment: 9
+      pivot: {x: .470114797, y: .141286045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_56
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 439
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_57
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 415
+        width: 68
+        height: 29
+      alignment: 9
+      pivot: {x: .973846436, y: .203709036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_58
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 404
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_56
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 369
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: .104092598, y: .597925603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_57
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 376
+        width: 29
+        height: 23
+      alignment: 9
+      pivot: {x: .723285556, y: .793775499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_58
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 376
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: .237234503, y: .793775499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_59
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 168
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 170
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_61
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 109
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: .456040949, y: .159939319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_62
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 110
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: .437201351, y: .135056838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_63
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 93
+        width: 71
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_64
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 5
+        width: 46
+        height: 102
+      alignment: 9
+      pivot: {x: .417096347, y: .0547438152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_66
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 36
+        width: 94
+        height: 54
+      alignment: 9
+      pivot: {x: .431350082, y: .43135035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_67
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 7
+        width: 87
+        height: 26
+      alignment: 9
+      pivot: {x: .500000358, y: .313321531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_68
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 168
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_69
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 6
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_70
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 109
+        width: 57
+        height: 54
+      alignment: 9
+      pivot: {x: .460976154, y: .143209964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_71
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 109
+        width: 60
+        height: 62
+      alignment: 9
+      pivot: {x: .449826062, y: .149324358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_72
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 213
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: .579858005, y: .393163741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 214
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: .516471088, y: .371895254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 214
+        width: 53
+        height: 37
+      alignment: 9
+      pivot: {x: .554340839, y: .357764155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_77
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 28
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_78
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 45
+        width: 11
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_79
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 4
+        width: 53
+        height: 70
+      alignment: 9
+      pivot: {x: .482510537, y: .354338318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_80
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 6
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_81
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_93
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 76
+        width: 82
+        height: 31
+      alignment: 9
+      pivot: {x: .449333608, y: .203931406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_94
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 167
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_85
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 225
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_86
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 467
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: .5, y: .304653168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_89
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 344
+        width: 37
+        height: 18
+      alignment: 9
+      pivot: {x: .0682983398, y: .887451172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_90
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 344
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: .134422302, y: .588032603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_91
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 344
+        width: 29
+        height: 23
+      alignment: 9
+      pivot: {x: .724971354, y: .832567275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_92
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 344
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: .245032758, y: .832567275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_93
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 296
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_95
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 313
+        width: 80
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_96
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 278
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: .474433273, y: .120152704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_97
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 297
+        width: 120
+        height: 50
+      alignment: 9
+      pivot: {x: .519964576, y: .298755497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_98
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 173
+        width: 64
+        height: 117
+      alignment: 9
+      pivot: {x: .169153214, y: .0436260514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_99
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 173
+        width: 40
+        height: 117
+      alignment: 9
+      pivot: {x: .296183765, y: .043909058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_100
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 173
+        width: 64
+        height: 118
+      alignment: 9
+      pivot: {x: .511580467, y: .0407090262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_101
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 173
+        width: 41
+        height: 118
+      alignment: 9
+      pivot: {x: .523034096, y: .0374107994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_99
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 278
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: .489042699, y: .116500102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_100
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 288
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 252
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_102
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 254
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_103
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 259
+        width: 48
+        height: 15
+      alignment: 9
+      pivot: {x: .072975792, y: .559411645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_104
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 254
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_102
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 445
+        width: 51
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .0921480879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_103
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 417
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_104
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 352
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_105
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 137
+        width: 78
+        height: 28
+      alignment: 9
+      pivot: {x: .112735845, y: .492182583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_106
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 43
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_107
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 3
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_1024x512_Xmas_108
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 110
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
