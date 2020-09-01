@@ -143,15 +143,15 @@ namespace MvR
 			// Count up the spawn delay
 			spawnDelayCount += Time.deltaTime;
 
-            if (SceneManager.GetActiveScene().name == "VsScene")  // ---------------------------------- test
+            if (vsModeLoader.instance.vsMode)  // ---------------------------------- test
                 spawnIndex = pointSpawn;                          // ---------------------------------- test
+            else
+                spawnIndex = Random.Range(0, spawnPoints.Length);  // --------------------------------------- test
+                                                                   // Choose a random spawn point from the list
+                                                                   //int spawnIndex = Random.Range(0, spawnPoints.Length);
 
 
-			// Choose a random spawn point from the list
-			//int spawnIndex = Random.Range(0, spawnPoints.Length);
-			spawnIndex = Random.Range(0, spawnPoints.Length);  // --------------------------------------- test
-
-			if( spawnDelayCount >= spawnDelay )
+            if ( spawnDelayCount >= spawnDelay )
 			{
 				// Go through each enemy type and create an enemy at a random spawn point
 				if( index < enemies.Length )
