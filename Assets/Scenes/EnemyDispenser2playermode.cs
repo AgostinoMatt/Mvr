@@ -14,7 +14,7 @@ namespace MvR
 	/// The script counts the delay timer for each enemy type and then creates one at a random spwan point.
 	/// After all enemies have spawned, a boss enemy is created. You win by killing the boss.
 	/// </summary>
-	public class EnemyDispenser : MonoBehaviour
+	public class EnemyDispenser2playermode : MonoBehaviour
 	{
 		// Should we use the old Unity OnGUI instead of the new Unity (4.6+) UI
 		public bool useOldUI = false;
@@ -37,8 +37,9 @@ namespace MvR
 		// A list of the spwan points from which enemies appear
 		public Transform[] spawnPoints;
 
-        private int spawnIndex; // -------------------------------- test purpose
-        public int pointSpawn;  // -------------------------------- test purpose
+        private int spawnIndex;
+
+        public int pointspawn; // ------- added to select spawn point
 
 		// The total number of enemies in the level
 		private float enemiesTotal;
@@ -143,15 +144,18 @@ namespace MvR
 			// Count up the spawn delay
 			spawnDelayCount += Time.deltaTime;
 
-            if (SceneManager.GetActiveScene().name == "VsScene")  // ---------------------------------- test
-                spawnIndex = pointSpawn;                          // ---------------------------------- test
-
-
 			// Choose a random spawn point from the list
-			//int spawnIndex = Random.Range(0, spawnPoints.Length);
-			spawnIndex = Random.Range(0, spawnPoints.Length);  // --------------------------------------- test
+			
+		
 
-			if( spawnDelayCount >= spawnDelay )
+            if(SceneManager.GetActiveScene().name == "VsScene")
+            {
+                int spawnIndex = pointspawn;  // ----------- change to lane pick
+            }
+            else
+                spawnIndex = Random.Range(0, spawnPoints.Length);  // ----------- change to lane pick
+
+            if ( spawnDelayCount >= spawnDelay )
 			{
 				// Go through each enemy type and create an enemy at a random spawn point
 				if( index < enemies.Length )
