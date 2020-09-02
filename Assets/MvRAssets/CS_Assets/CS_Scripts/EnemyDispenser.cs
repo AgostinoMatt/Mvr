@@ -227,7 +227,14 @@ namespace MvR
 					Win();
 				}
 			}
+
+			SetSpawnIndex(pointSpawn);
 		}
+
+		public void SetSpawnIndex(int pointSpawnChange)
+        {
+			pointSpawn = pointSpawnChange;
+        }
 
 		/// <summary>
 		/// OnGUI is called for rendering and handling GUI events.
